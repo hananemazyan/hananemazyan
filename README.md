@@ -27,7 +27,7 @@ Bachelor's Degree Student in Information Systems and Digital Transformation
 
 ## 🌐 Links:
 
-* GitHub: [https://github.com/hananemazyan]
+* GitHub: [https://twitter.com/hanane_mazyan]
 * LinkedIn: [https://www.linkedin.com/in/hananemazyan1/]
 * Email: [hananemzn16@gmail.com]
 
