@@ -12,7 +12,7 @@ Bachelor's Degree Student in Information Systems and Digital Transformation
 ### Technical Skills:
 
 * GitHub · Linux · Git · C#  · Bash · Vim 
-* Photography · Social Media Management · Figma (Software) ·
+* Photography · Social Media Management 
 * Java · JavaScript · Cascading Style Sheets (CSS) · HTML5
 * Oracle Database · MySQL · Unified Modeling Language (UML)
 
