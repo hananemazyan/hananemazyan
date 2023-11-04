@@ -19,8 +19,7 @@ Bachelor's Degree Student in Information Systems and Digital Transformation
 ### Additional Technical Skills:
 
 * Digital Marketing · Social Media Marketing ·
-* Familiarity with TML (Template Markup Language)
-
+* 
 ### Soft Skills:
 
 * Organization Skills · Event Planning · Leadership ·
